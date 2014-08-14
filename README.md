@@ -1,3 +1,16 @@
+Difference
+------------
+
+Difference from the [appirater - official](https://github.com/arashpayan/appirater)
+
+Shared popup title and rating buttons string. 
+
+```
+Rating button = "Rate %@"
+Title = "%@"
+```
+
+
 Introduction
 ------------
 Appirater is a class that you can drop into any iPhone app (iOS 4.0 or later) that will help remind your users
