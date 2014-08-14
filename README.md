@@ -8,21 +8,8 @@ Shared popup title and rating buttons string.
 
 #### Localization
 
-##### Rating button
-
-```
-"Rate %@" = "Rate %@";
-```
-
-##### Title
-
-```
-"%@" = "title"
-```
-
 ##### example
 
-```
 /* 
   AppiraterLocalizable.strings
 */
