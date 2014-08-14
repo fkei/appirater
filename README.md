@@ -20,6 +20,19 @@ Shared popup title and rating buttons string.
 "%@" = "title"
 ```
 
+##### example
+
+```
+/* 
+  AppiraterLocalizable.strings
+*/
+"If you enjoy using %@, would you mind taking a moment to rate it? It won't take more than a minute. Thanks for your support!" = "If you enjoy using %@, would you mind taking a moment to rate it? It won't take more than a minute. Thanks for your support!";
+"Rate %@" = "Rate %@";
+"No, Thanks" = "No, thanks";
+"Remind me later" = "Remind me later";
+"%@" = "Review app";
+```
+
 
 
 Introduction
