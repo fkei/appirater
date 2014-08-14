@@ -5,10 +5,21 @@ Difference from the [appirater - official](https://github.com/arashpayan/appirat
 
 Shared popup title and rating buttons string. 
 
+
+### Localization
+
+#### Rating button
+
 ```
-Rating button = "Rate %@"
-Title = "%@"
+"Rate %@" = "Rate %@";
 ```
+
+#### Title
+
+```
+"%@" = "title"
+```
+
 
 
 Introduction
