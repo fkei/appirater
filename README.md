@@ -10,6 +10,7 @@ Shared popup title and rating buttons string.
 
 ##### example
 
+```
 /* 
   AppiraterLocalizable.strings
 */
